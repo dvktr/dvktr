@@ -1,5 +1,5 @@
-<p>&nbsp;<img align="right" height="200em" src="https://github-readme-stats.vercel.app/api?username=dvktr&show_icons=true&locale=en" alt="dvktr" /></p>
-<p><img align="right" height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=dvktr&" alt="dvktr" /></p>
+<p>&nbsp;<img align="right" height="200em" src="https://github-readme-stats.vercel.app/api?username=dvktr&show_icons=true&theme=radical" alt="dvktr" /></p>
+<p><img align="right" height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=dvktr&theme=radical" alt="dvktr" /></p>
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Victor Mendes</h1>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=dvktr&color=yellow" alt="Profile views" /> </p>-->
